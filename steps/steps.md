@@ -1,7 +1,9 @@
 ## I am complete my 100DaysOfCode in 3 steps
 
 > 1st step: learning python
+
 > 2nd step: getting into machine learning
+
 > 3rd step: getting into deep learning
 
 ### 1st Step :
@@ -21,4 +23,4 @@
 
 ### 2nd Step :
 
-> Yet to be decieded ........
+> Yet to be decieded
